@@ -2,7 +2,7 @@
 <h3 align="center">Learning Junior Manual Tester in DareIT mentoring program</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cb78373d627fd536270833f96cbb7c2d11828171091c9d363e1d13917d87a0fd/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3936302f312a5a374f6170524d6833472d4b437961454b56464c69772e676966">
 
-- 🌱 I’m currently learning **MySQL, Jira, Git**
+- 🌱 I’m currently learning **MySQL, Jira, Postman**
 
 - 📫 How to reach me **zkurylowicz@interia.pl**
 
