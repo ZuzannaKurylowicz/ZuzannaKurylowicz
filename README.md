@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **zkurylowicz@interia.pl**
 
-- ⚡ Fun fact **My black cat's name is Jenny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
