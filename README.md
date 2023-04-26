@@ -10,10 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zuzanna-kurylowicz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zuzanna-kurylowicz/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zuzanna-kurylowicz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zuzanna-kurylowicz/" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/ZuzannaKurylowicz"><img src="https://camo.githubusercontent.com/2a08f6339ee8a39aac3fefc4ce846374b009aee1421a54ac1352952ea98570a0/68747470733a2f2f696d672e69636f6e73382e636f6d2f33642d666c75656e63792f3133352f6e756c6c2f6769746875622e706e67" alt="github" height="40" data-canonical-src="https://img.icons8.com/3d-fluency/135/null/github.png" style="max-width: 100%;" width="40" height="40" align="center"></a>
+<a href="https://github.com/ZuzannaKurylowicz"><img src="https://camo.githubusercontent.com/2a08f6339ee8a39aac3fefc4ce846374b009aee1421a54ac1352952ea98570a0/68747470733a2f2f696d672e69636f6e73382e636f6d2f33642d666c75656e63792f3133352f6e756c6c2f6769746875622e706e67" alt="github" height="40" data-canonical-src="https://img.icons8.com/3d-fluency/135/null/github.png" style="max-width: 100%;" width="40" height="40" ></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
